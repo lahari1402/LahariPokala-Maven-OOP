@@ -1,6 +1,6 @@
 package com.lahari.Project2;
 
-import com.rishitha.Project2.sweet;
+import com.lahari.Project2.sweet;
 
 public class Chocolate extends sweet{
     Chocolate(String name, int weight, int cost) {
